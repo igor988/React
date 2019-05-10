@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", 'sans-serif';
+    background: #E5EDF5;
+    margin: 0;
+}
+
+#container-login {
+    background: #fff;
+    width: 370px;
+    height: 350px;
+    margin: 250px auto 50px auto;
+    border-radius: 5px;
+    color: #8D8D8D;
+    padding-top: 20px;
+}
+
+
+.paragraph-login {
+    text-align: center; 
+    font-size: 15px;
+    color: #8D8D8D; 
+}
+

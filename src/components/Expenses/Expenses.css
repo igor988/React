@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto", 'sans-serif';
+    background: #E5EDF5;
+    margin: 0;
+}
+
+#container-register {
+    background: #fff;
+    width: 370px;
+    height: 20%;
+    margin: 50px auto;
+    border-radius: 5px;
+    color: #8D8D8D;
+    overflow: hidden;
+}
+
+
+
+.paragraph-register {
+    text-align: center; 
+    font-size: 15px;
+    color: #8D8D8D;  
+}
+
+
